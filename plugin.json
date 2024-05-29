@@ -1,0 +1,14 @@
+{
+    "ID": "4TKXYW13BHLN5BMGNV3H261J4JUYWS7I",
+    "ActionKeyword": "lol",
+    "IsGlobal": true,
+    "Name": "LeagueOfLegends",
+    "Author": "vigovlugt",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/vigovlugt/powertoys-run-lol",
+    "ExecuteFileName": "Community.PowerToys.Run.Plugin.LeagueOfLegends.dll",
+    "IcoPathDark": "Images\\leagueoflegends.png",
+    "IcoPathLight": "Images\\leagueoflegends.png",
+    "DynamicLoading": false
+}
